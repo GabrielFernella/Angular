@@ -1,0 +1,25 @@
+{
+  "films": [
+    {
+      "id": 1,
+      "title":"Justice League",
+      "director": "Jack",
+      "genres":"Ação",
+      "year":"1995"
+    },
+    {
+      "id": 2,
+      "title":"Wanda Vision",
+      "director": "Marvel",
+      "genres":"Ação",
+      "year":"2020"
+    },
+    {
+      "id": 3,
+      "title":"Batman",
+      "director": "Vampiro",
+      "genres":"Ação", 
+      "year":"2021"
+    }
+  ]
+}

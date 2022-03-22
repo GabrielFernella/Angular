@@ -1,0 +1,13 @@
+.sidenav{
+  margin-top: 64px;
+  margin-bottom: 64px;
+}
+
+.sidenav a {
+  text-decoration: none;
+}
+
+
+.sidenav i {
+  padding-right: 1rem;
+}
